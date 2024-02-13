@@ -14,5 +14,4 @@ public interface ProductDao extends JpaRepository<Product, Integer>{
 	/////////////////////////////////////////////////////////////M
 	//Product findById1(int p_id);
 	
-//hhujhikj	
 }
